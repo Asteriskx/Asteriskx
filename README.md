@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Asteriskx)
 
-### Use Langages and Tools
+### Use Languages and Tools
 ![Use Langages and Tools](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,python,rust,arduino,processing,p5js,nodejs,html,css,windows,linux,arch,ubuntu,vscode,eclipse,git,github,docker,powershell,selenium)
 
 ---
